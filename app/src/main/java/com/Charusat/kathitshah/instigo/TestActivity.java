@@ -1,0 +1,17 @@
+package com.Charusat.kathitshah.instigo;
+
+import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.iitdh.sonusourav.instigo.R;
+
+public class TestActivity extends AppCompatActivity{
+
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.test);
+
+    }
+
+
+}
